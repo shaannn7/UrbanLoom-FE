@@ -1,0 +1,12 @@
+.register-div{
+   display: flex; 
+   align-items: center;
+}
+.rg-inp-div{
+    border-radius: 20px;
+    background-color:white;
+    padding: 30px 0px;
+}
+.Click{
+    color:saddlebrown;
+}

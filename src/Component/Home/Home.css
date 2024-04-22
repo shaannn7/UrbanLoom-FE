@@ -1,0 +1,37 @@
+.Carouse{
+    margin-top: -35px;
+}
+.Modern{
+ color:rgb(27, 55, 55);
+}
+.Moderndis{
+    color:rgb(232, 230, 230);
+}
+.Minimal{
+    color:wheat;
+   
+}
+.Minimaldis{
+    color:bisque;
+}
+.Urban{
+    color:rgb(99, 82, 38);
+}
+.Urbandis{
+    color:black;
+}
+.container-fluid{
+    margin-top: 10px;
+}
+.fontstyle{
+    font-style: italic;
+    font-size: large;
+    color: sienna;
+}
+.Copyright{
+    background-color: rgb(106, 56, 33);
+}
+
+li{
+    list-style-type: none;
+}

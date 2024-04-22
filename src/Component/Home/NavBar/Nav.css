@@ -1,0 +1,39 @@
+.Logo{
+    max-width: 180px;
+}
+.NavBar{
+    background-color: rgb(255, 255, 255);
+}
+.NavPages{
+    text-decoration: none !important;
+    color: sienna !important;
+}
+.NavPages:active{
+    text-decoration: none !important;
+    border: none !important;
+    background-color: white !important;
+   color:sienna !important;
+}
+.noborderbutton button{
+    text-decoration: none !important;
+     border: none !important;
+     background-color: white !important;
+     color: sienna !important;
+     font-size: larger;
+     font-weight: 600;
+  }
+.noborderbutton:active{
+    
+     color: white !important;
+     text-decoration: none !important;
+     border: none !important;
+  }
+  .Search{
+    background-color: white !important;
+    color: sienna !important;
+  }
+  .Search:active{
+    background-color: sienna !important;
+    color: white !important;
+  }
+ 

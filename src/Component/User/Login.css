@@ -1,0 +1,13 @@
+.input-div{
+    display: flex; 
+    align-items: center;
+}
+.log-inp{
+    border-radius: 20px;
+    background-color:white;
+    padding: 30px 0px;
+}
+.Click{
+    color:saddlebrown;
+}
+
